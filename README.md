@@ -88,6 +88,15 @@ Yes to both. We will force it to be one size, even if it is a bit on the small s
 **Will the actual video during the live demo be responsive? As in — will it change sizes, or just get the sides cut off, e.g. on mobile?**
 It will scale up and down, maintaining the aspect ratio — sides will not get cut off.
 
+**How do I edit/delete a submission?**
+If you haven't finalized it, you can edit the repo or delete the entry at any time.
+
+Once you've finalized your submission, we pull a copy of your repo, and you can no longer update or delete it on your end.
+
+If you realize there's a bug or want to make edits or updates, you can always work on a new release and submit as a new entry. *Title it the same name as the previous, and put something like [New v3.27 - delete old] after the title - so we know which one is the new one, and makes it easier for us to delete old one*. Then DM Michael or put a message in #code-jam to let us know you submitted a replacement and to delete the old one.
+
+Since we need to manually find and delete these, please do this as a last resort.  You don't need to finalize your submission until you've done all the testing you want and you feel like it's ready to ship :) 
+
 ## Further help
 Drop into the Kitboga discord server, and check out the [#code-jam](https://discord.com/channels/331609590229893120/1377638134917103647) channel. Please don't ask questions via email, as we might not see them before the deadline.
 
