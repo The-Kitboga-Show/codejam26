@@ -2,7 +2,7 @@
 "Unskippable ad"
 
 This GitHub repository contains a template you should fork, modify to include your submission, and then submit to us. Please read all the information in this readme before getting started!
-**The deadline for submissions is Thursday, April 30th at 11:59 PM Eastern Time.**
+**The deadline for submissions is ~~Thursday, April 30th at 11:59 PM Eastern Time~~ Wednesday, May 6th at 11:59pm ET.**
 
 ## Rules
 1. Read through the [Rules & Guidelines](https://kitboga.com/codejam26/rules)
@@ -66,7 +66,7 @@ The best submissions will go on to be showcased and reviewed on-stream by Kitbog
 Prizes will include merch; Amazon Prime, Twitch & Kraken+ subscriptions; Discord emoticons and roles; and more!
 
 ## How to submit
-**Remember, the deadline is Thursday, April 30th at 11:59 PM Eastern Time!**
+**Remember, the deadline is ~~Thursday, April 30th at 11:59 PM Eastern Time~~ Wednesday, May 6th at 11:59pm ET!**
 Don't forget to [read the license](https://kitboga.com/codejam26/terms), which you'll need to agree to in order to take part.
 
 Go here: https://kitboga.com/codejam26
